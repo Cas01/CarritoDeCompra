@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CarritoDeCompra</string>
+    <string name="bienvenidos">BIENVENIDOS</string>
+    <string name="telefono">Telefono</string>
+    <string name="registrar">Registrar</string>
+    <string name="direccion">Direccion</string>
+    <string name="apellido">Apellido</string>
+    <string name="nombre">Nombre</string>
+
+    <!-- Nodos Firefase-->
+
+    <string name="nodo_usuario">usuario</string>
+    <!-- campos de los nodos -->
+    <string name="campo_cedula">cedula</string>
+    <string name="campo_nombre">nombre</string>
+    <string name="campo_apellido">apellido</string>
+    <string name="campo_direccion">direccion</string>
+    <string name="campo_telefono">telefono</string>
+
+    <string name="descripcion">Descripcion</string>
+    <string name="valor">Valor</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
